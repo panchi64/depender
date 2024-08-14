@@ -10,3 +10,8 @@ zed-extension
 # Directories used by the Zed Extension CLI.
 /scratch
 /output
+
+
+# Added by cargo
+
+/target
